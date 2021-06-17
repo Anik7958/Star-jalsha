@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla",Star Jalsha
+http://10.16.100.204/hls/star_jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
+http://103.205.133.21/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="Indian Bangla" ,Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20190224050806" group-title="Shows & Series",Star Jalsha SD
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20190224050806" group-title="Shows & Series",Star Jalsha link 2
+http://103.205.133.21/hls/chsj.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20190224050806" group-title="Shows & Series",Star Jalsha SD (backup)
+http://209.126.120.153/hls/chsj.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD link2
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD (backup)
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES
+http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES(backup)
+http://103.153.175.254:8080/hls/stream27.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES link2
+http://103.153.175.254:8080/hls/stream27.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath(backup)
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Shows & Series",Colors-Bangla
+http://103.205.133.19/hls/colorsbangla.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Shows & Series",Colors-Bangla link2
+http://209.126.120.153/hls/colorsbangla.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Shows & Series",Colors-Bangla(backup)
+http://103.205.133.21/hls/colorsbangla.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD
+http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD link2
+http://103.81.104.118/hls/stream28.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD(backup)
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla ENT.",Star Jalsha HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha SD
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha HD (2)
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="GmbH-BDIX (সবার চলবে না)", Star Jalsha HD 
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:0 group-title="Drama",Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:0 group-title="Drama",Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD(EBOX2)
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (DFNBD)
+http://45.127.244.7:8080/hls/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD(akamai)
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Jalsha
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="*ICC-TV",Star Jalsha
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg3mgZQ.jpg" group-title="INDIAN BANGLA", Star Jalsha
+https://m3u-editor.com/serve/ccb62b10-ce8b-11eb-a087-e5136d40f225/318105037
+
+#EXTINF:-1,Star Jalsha
+http://103.205.133.21/hls/chsj.m3u8
+#EXTINF:-1,Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:-1,Star Jalsha SD
+http://103.205.133.21/hls/chsj.m3u8
+#EXTINF:-1,Star Jalsha HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
+http://103.81.104.118:80/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-3)
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
+http://209.126.120.153:80/hls/chsj.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-2)
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+
+#EXTINF:-1,Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+#EXTINF:-1,Star Jalsha
+http://103.153.175.254:8080/hls/stream31.m3u8
+#EXTINF:-1,Star Jalsha
+http://cdn.ihub.live:8080/j-star-jalsha/tracks-v1a1/mono.m3u8
