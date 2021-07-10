@@ -194,3 +194,34 @@ http://103.157.237.18:8000/play/201
 
 #EXTINF: -1 group-title="Extra 1", IRD-2 Star Jalsha HD
 http://103.157.237.18:8000/play/202
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBSI3k.jpg" group-title="Indian Bangla", STAR Jalsha
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
+http://10.16.100.204/hls/star_jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
+http://103.107.160.20:8081/amrbd/starjalsha/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="SK Traders-BDIX (সবার চলবে না)", Star Jalsha HD 
+http://tv.pmcon.net/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Jalsha FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Jalsha FHD
+http://pprotv.net:80/rrr/rrr/60004
+
+
