@@ -225,3 +225,35 @@ http://103.205.133.19/hls/chsj.m3u8
 http://pprotv.net:80/rrr/rrr/60004
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
+ http://103.205.133.21/hls/chsj.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
+ http://103.81.104.118/hls/stream31.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
+ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+ 
+  #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Jalsha HD
+ http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", Star Jalsha Movies HD
+ http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
+ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Jalsha HD
+ http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Radiant-BDIX (সবার চলবে না)", Star Jalsha
+ http://103.205.133.21/hls/chsj.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
+ http://103.205.133.21/hls/chsj.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
+ http://103.81.104.118/hls/stream31.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
+ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+ 
+  #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
+ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
