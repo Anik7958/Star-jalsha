@@ -257,3 +257,12 @@ http://103.81.104.118/hls/stream31.m3u8
  
   #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
  http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+ 
+ #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha UK" tvg-logo="https://picon-13398.kxcdn.com/starjalsha.jpg" group-title="Live: United Kingdom",Star Jalsha UK
+http://tv.iptvstack.net:80/brunoplayarnea/NX02we47/12352
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
+http://tv.pmcon.net/hls/stream31.m3u8
+# http://185.180.15.17:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=RK
+
+
