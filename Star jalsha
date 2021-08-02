@@ -265,4 +265,29 @@ http://tv.iptvstack.net:80/brunoplayarnea/NX02we47/12352
 http://tv.pmcon.net/hls/stream31.m3u8
 # http://185.180.15.17:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=RK
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
+http://103.205.133.19/hls/chsj.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD Ebox
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
+#http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Jalsha
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha SD
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 2
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 3
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="INTERNET TV" ,Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
 
