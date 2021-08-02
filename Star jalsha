@@ -291,3 +291,32 @@ http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="INTERNET TV" ,Star Jalsha HD
 http://103.81.104.118/hls/stream31.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
+https://cdn.cinemabaaz.live/j-star-jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo = "http://103.81.104.118/img/starjalsha.jpg" group-title = "INTERNET TV", Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/9d1xXjN.png" group-title = "Bangla", Star Jalsha HD
+http://103.205.133.19/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png/revision/latest/top-crop/width/300/height/300?cb=20190224050939" group-title="BANGLA INDIA",Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="BANGLA INDIA",Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="India", Star Jalsha
+http://209.126.120.151/hls/chsj.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
+https://cdn.cinemabaaz.live/j-star-jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha HD
+http://visioncable2020.com:25461/live/saiful@hd/2224642/899.m3u8
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha
+http://visioncable2020.com:25461/live/saiful@hd/2224642/898.m3u8
+
