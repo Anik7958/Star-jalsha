@@ -329,14 +329,11 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Updated", Star Jalsha HD
 http://bdixtv.live:8080/Star-Jalsha/tracks-v1a1/mono.m3u8?token=7e03e6abe35bed0d8349160f9314a28f1ca8bc8c-2f2a65371cac0fc55068a8433e839865-1628095969-1628085169
 
-
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha HD
+http://tv.univisionlive.net:25461/live/68151890/S1T5MwPHNs/899.m3u8
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha
+http://tv.univisionlive.net:25461/live/68151890/S1T5MwPHNs/898.m3u8
 
