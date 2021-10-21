@@ -294,7 +294,7 @@ http://173.199.120.51/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-
+http://shark2.dyndns.tv:5808/bd-gazi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
