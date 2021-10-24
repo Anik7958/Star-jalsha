@@ -1,41 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla",Star Jalsha
-http://10.16.100.204/hls/star_jalsha.m3u8
+http://110.93.240.198:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha
 http://103.81.104.118/hls/stream31.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
-http://103.205.133.21/hls/chsj.m3u8
 
+http://110.93.240.198:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 
+http://110.93.240.198:8000/play/a06g/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha
-http://103.205.133.19/hls/chsj.m3u8
 
 
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20190224050806" group-title="Shows & Series",Star Jalsha SD (backup)
-http://209.126.120.153/hls/chsj.m3u8
 
+http://103.40.226.94:8080/hls/channel_1.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD link2
-http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD (backup)
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
+http://103.17.201.18:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES
-http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES(backup)
-http://103.153.175.254:8080/hls/stream27.m3u8
 
+https://1ojy.short.gy/The-Nayeem-Parvez/Astro-Cricket-HD.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath
