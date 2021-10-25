@@ -1,259 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla",Star Jalsha
-http://110.93.240.198:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha
-http://103.81.104.118/hls/stream31.m3u8
+************************ Star Jalsha ************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
 
-http://110.93.240.198:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
-
-http://110.93.240.198:8000/play/a06g/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha
-
-
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-
-
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20190224050806" group-title="Shows & Series",Star Jalsha SD (backup)
-
-http://103.40.226.94:8080/hls/channel_1.m3u8
-
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD link2
-
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD (backup)
-
-http://103.17.201.18:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES
-http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES(backup)
-
-https://1ojy.short.gy/The-Nayeem-Parvez/Astro-Cricket-HD.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath(backup)
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
-
-
-#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Shows & Series",Colors-Bangla(backup)
-http://103.205.133.21/hls/colorsbangla.m3u8
-
-#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD
-http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
-
-#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD link2
-http://103.81.104.118/hls/stream28.m3u8
-
-#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD(backup)
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla ENT.",Star Jalsha HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" group-title="Bangla ENT.", Star Jalsha SD
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD
-http://103.81.104.118/hls/stream31.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="GmbH-BDIX (সবার চলবে না)", Star Jalsha HD 
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD(EBOX2)
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (DFNBD)
-http://45.127.244.7:8080/hls/channel12.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="ext" group-title="*ICC-TV",Star Jalsha
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg3mgZQ.jpg" group-title="INDIAN BANGLA", Star Jalsha
-https://m3u-editor.com/serve/ccb62b10-ce8b-11eb-a087-e5136d40f225/318105037
-
-
-
-#EXTINF:-1,Star Jalsha HD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
-http://103.81.104.118:80/hls/stream31.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-3)
-http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
-http://209.126.120.153:80/hls/chsj.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-2)
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
-
-#EXTINF:-1,Star Jalsha
-http://103.153.175.254:8080/hls/stream31.m3u8
-#EXTINF:-1,Star Jalsha
-http://cdn.ihub.live:8080/j-star-jalsha/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,BAN: Star Jalsha HD
-http://cobraa.in:8000/Fawzi0555660873/2L30ce6fj5/87291
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha [2]
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
-#EXTINF:0,Star Jalsha
-#EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
-
-
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 2",Star Jalsha HD [2]
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=piratesiptv_sohelahmed
-
-#EXTINF:-1,Star Jalsha HD1
-http://180.210.191.2/hls/stream31.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/bb80fc60-ba38-11eb-9231-8b8e3bc81950/1658388/298825749.png" group-title="📺 ʟᴏᴄᴀʟ ɪɴᴅɪᴀɴ ʙᴀɴɢʟᴀ ᴛᴠ 📺", Star Jalsha HD
-http://tv.pmcon.net//hls/stream31.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/iUCF2Vc.png" group-title="BDIX FAST 1", STAR JALSHA HD
-http://tv.pmcon.net/hls/stream31.m3u8
-
-#EXTINF: -1 group-title="Extra 1", ENC-13 Star Jalsha
-http://103.157.237.18:8000/play/201
-
-#EXTINF: -1 group-title="Extra 1", IRD-2 Star Jalsha HD
-http://103.157.237.18:8000/play/202
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBSI3k.jpg" group-title="Indian Bangla", STAR Jalsha
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD
-http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
-http://103.107.160.20:8081/amrbd/starjalsha/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="SK Traders-BDIX (সবার চলবে না)", Star Jalsha HD 
-http://tv.pmcon.net/hls/stream31.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Jalsha FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Jalsha FHD
-http://pprotv.net:80/rrr/rrr/60004
-
-
-
-
-
- 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
- http://tv2.ebox.live:8080/live/star-jalsha.m3u8
- 
- 
- 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
- http://tv2.ebox.live:8080/live/star-jalsha.m3u8
- 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Jalsha HD
- http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8
- 
- 
-
- #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD (2)
- http://tv2.ebox.live:8080/live/star-jalsha.m3u8
- 
-  #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Jalsha HD
- http://tv2.ebox.live:8080/live/star-jalsha.m3u8
- 
- #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha UK" tvg-logo="https://picon-13398.kxcdn.com/starjalsha.jpg" group-title="Live: United Kingdom",Star Jalsha UK
-http://tv.iptvstack.net:80/brunoplayarnea/NX02we47/12352
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://tv.pmcon.net/hls/stream31.m3u8
-# http://185.180.15.17:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=RK
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD Ebox
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-
-
-
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Star Jalsha
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
-https://cdn.cinemabaaz.live/j-star-jalsha/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="India", Star Jalsha
-http://209.126.120.151/hls/chsj.m3u8
-
-#EXTINF:-0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
-#EXTINF:-0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
-https://cdn.cinemabaaz.live/j-star-jalsha/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha HD
-http://visioncable2020.com:25461/live/saiful@hd/2224642/899.m3u8
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha
-http://visioncable2020.com:25461/live/saiful@hd/2224642/898.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD (1)
-http://bd.digiiptv.net:25461/moznu43/PA2443/898
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (2)
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (3)
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Updated", Star Jalsha HD
-http://bdixtv.live:8080/Star-Jalsha/tracks-v1a1/mono.m3u8?token=7e03e6abe35bed0d8349160f9314a28f1ca8bc8c-2f2a65371cac0fc55068a8433e839865-1628095969-1628085169
-
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha HD
-http://tv.univisionlive.net:25461/live/68151890/S1T5MwPHNs/899.m3u8
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha
-http://tv.univisionlive.net:25461/live/68151890/S1T5MwPHNs/898.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 http://jupiter.bdcabletv.com/star_jalsha-sp/index.m3u8
@@ -267,68 +16,125 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/898
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100310.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/534.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://103.81.104.118/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://143.244.60.10/BENGALI__STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD Babutv" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2857
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD mooniptv" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://ip.mooniptv.cz:80/1520666900/1520426840/83852
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD mooniptv hd" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://ip.mooniptv.cz:80/1520666900/1520426840/83729
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD MONO" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://103.159.4.38:5868/IN-BANGLA-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD amarron" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55252
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7875
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://173.199.120.51/hls/chsj.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://103.40.226.94:8080/hls/channel_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://shark2.dyndns.tv:5808/bd-gazi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-2
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-3
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-5
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-6
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-7
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-9
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-10
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
+
+
+
+
+***************************Live sports*********************
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",1
+
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",2
+
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",3
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",5
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",6
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",7
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",9
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",10
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",11
+
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",12
+
+
+
+***********Bein sports**************
+
+#EXTINF:-1,BEIN SPORT 1 AR - RT
+http://93.152.174.144:4000/play/bein1rt/index.m3u8
+#EXTINF:-1,BEINSPORTAR
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
+#EXTINF:-1,BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1,BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1,BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1,BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1,Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1,Bein Sport 1 AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1,Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1,Bein Sport 2 AR
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
+#EXTINF:-1,Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF XTINF:-1,Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1,Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1,Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1,Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1,Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8
