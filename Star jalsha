@@ -4,47 +4,12 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://jupiter.bdcabletv.com/star_jalsha-sp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:51:A2:B8&ip=103.121.220.147&magic_server=MAIN_MP
-
-https://aslive.club/altaf/indianbangla/starjalsha/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://bd.digiiptv.net:25461/moznu43/PA2443/898
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD JP" tvg-logo="" group-title="Updated",Star Jalsha HD JP
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/100310.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-3
-
+http://208.86.19.21:80/908.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-4
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-5
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-6
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-7
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-9
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla-Updated",Star Jalsha-10
+http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
 
 
 
@@ -61,81 +26,13 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
 
 
 
-***************************Live sports*********************
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",1
-
-http://93.152.174.144:4000/play/ss2in/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",2
-
-http://93.152.174.144:4000/play/ss1in/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",3
-
-http://93.114.194.133/hls/CE9QsFoX3tZ7HXPRCqtAsGWdVw6XR1XT.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",4
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",5
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",6
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",7
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",9
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",10
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",11
-
-
-#EXTINF:-1 tvg-logo="" group-title="Live Sports",12
 
 
 
-***********Bein sports**************
 
-#EXTINF:-1,BEIN SPORT 1 AR - RT
-http://93.152.174.144:4000/play/bein1rt/index.m3u8
-#EXTINF:-1,BEINSPORTAR
-http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-#EXTINF:-1,BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,BT SPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1,BTSPORT3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1,Bein LaLiga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1,Bein Sport 1 AR
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1,Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,Bein Sport 2 AR
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1,Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF XTINF:-1,Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1,Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1,Bein Sports 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1,Bein Sports 7 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8
+
+
+
